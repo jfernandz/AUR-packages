@@ -4,7 +4,7 @@ This repo contains all software I've packaged and has been uploaded to Archlinux
 
 ## Important
 
-All packages are managed from cli using eli-schartz's [aurpublish](https://github.com/eli-schwartz/aurpublish) tool. The most important thig to take account is that I must **first pull AUR repo to my local machine** using `aurpublish -p <package>` (placed on AUR-packages folder) before do any change, **AUR git repo has got much more strict policy about revert commits.** 
+All packages are managed from cli using eli-schartz's [aurpublish](https://github.com/eli-schwartz/aurpublish) tool. The most important thig to take account is that I must **first pull AUR repo to my local machine** using `aurpublish -p <package>` (placed on my local AUR-packages folder) before do any change, **AUR git repo has got much more strict policy about revert commits.** 
 
 ## Packages
 
