@@ -1,6 +1,6 @@
 # My personal AUR packages
 
-This repo contains all software packaged by me present in Archlinux User Repository.
+This repo contains all software I've packaged and have been uploaded to Archlinux User Repository.
 
 ## Important
 
