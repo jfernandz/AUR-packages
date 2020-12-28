@@ -11,5 +11,6 @@ All packages are managed from cli using eli-schartz's [aurpublish](https://githu
 - [pokemmo](https://aur.archlinux.org/packages/pokemmo/)
 - [spigot-plugin-essentials](https://aur.archlinux.org/packages/spigot-plugin-essentials/)
 - [craftbukkit-plugin-worldguard](https://aur.archlinux.org/packages/craftbukkit-plugin-worldguard/)
+- [nautilus-megasync](https://aur.archlinux.org/packages/nautilus-megasync) (I'm just a colaborator)
 - [minecrafter-ttf](https://aur.archlinux.org/packages/minecrafter-ttf/)
 - [pixeled-ttf](https://aur.archlinux.org/packages/pixeled-ttf/)
